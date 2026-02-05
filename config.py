@@ -1,0 +1,8 @@
+API_ID = 0
+API_HASH = ""
+BOT_TOKEN = ""
+
+MONGO_URL = ""
+
+OWNER_ID = 0
+SUDO_USERS = set()
